@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:28.579131
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:00
 #+TITLE: 大通方廣懺悔滅罪莊嚴成佛經
 #+PROPERTY: CBETA_ID T85n2871
 #+PROPERTY: ID KR6u0007
